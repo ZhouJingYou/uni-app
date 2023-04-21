@@ -1,0 +1,2 @@
+<text>个人中心页面</text>
+<button type="primary" bindtap='navToHome'>返回首页</button>

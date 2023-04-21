@@ -1,0 +1,9 @@
+<view>
+  <text class="">{{motto}}</text>
+  <view class="footer">
+    <view class="tabBar">
+      <navigator class="tabBar-item flex-center" url="/pages/index/index">首页</navigator>
+      <navigator class="tabBar-item flex-center" url="/pages/perosn-center/perosn-center">个人中心</navigator>
+    </view>
+  </view>
+</view>

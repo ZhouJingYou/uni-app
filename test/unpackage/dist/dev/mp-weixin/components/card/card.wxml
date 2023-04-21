@@ -1,0 +1,1 @@
+<view><text data-event-opts="{{[['tap',[['handleClick',['$event']]]]]}}" bindtap="__e">card</text></view>
